@@ -1,0 +1,6 @@
+# Compiled executables
+Myexe
+*.exe
+
+# Object files
+*.o
