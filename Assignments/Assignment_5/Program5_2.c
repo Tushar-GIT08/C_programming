@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkLeapYear
+    Input : int
+    Output : void
+    Description : displaying if given year is a leap year or not
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void checkLeapYear(int iyear){
 
     if ((iyear % 400 == 0) || ((iyear % 4 == 0) && (iyear % 100 != 0))){

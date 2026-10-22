@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkCharacterType
+    Input : char
+    Output : void
+    Description : displaying if character is uppercase, lowercase, digit or special character
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void checkCharacterType(char cvalue){
 
     if (cvalue >= 'A' && cvalue <= 'Z'){

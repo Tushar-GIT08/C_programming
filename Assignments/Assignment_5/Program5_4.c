@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkMultipleDivisibility
+    Input : int
+    Output : void
+    Description : displaying if number is divisible by both 3 and 5
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void checkMultipleDivisibility(int ivalue)
 {
     if (ivalue % 3 == 0 && ivalue % 5 == 0){

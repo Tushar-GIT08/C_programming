@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : displayGrade
+    Input : float
+    Output : void
+    Description : displaying the grade of student
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void displayGrade(float fmarks){
 
     if (fmarks < 0 || fmarks > 100){

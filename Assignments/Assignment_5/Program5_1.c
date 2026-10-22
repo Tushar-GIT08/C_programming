@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : findGreatest
+    Input : int, int, int
+    Output : void
+    Description : displaying the greater number from 3 numbers
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void findGreatest(int ifirst, int isecond, int ithird){
 
     if (ifirst >= isecond && ifirst >= ithird){
