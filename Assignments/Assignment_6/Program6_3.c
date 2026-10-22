@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : calculateDiscount
+    Input : float
+    Output : void
+    Description : displaying final amount based on discounts
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void calculateDiscount(float famount){
 
     float fdiscount = 0.0f;

@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkTriangle
+    Input : int, int, int
+    Output : void
+    Description : displaying if given triangle is valid
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void checkTriangle(int iside1, int iside2, int iside3){
     
     if (iside1 > 0 && iside2 > 0 && iside3 > 0){

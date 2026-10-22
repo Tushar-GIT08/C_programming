@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : calculateBonus
+    Input : float, int
+    Output : void
+    Description : displaying the bonus from salary and work experience
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void calculateBonus(float fsalary, int iyears)
 {
     float fbonus = 0.0f;

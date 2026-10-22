@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkAdmission
+    Input : float, int
+    Output : void
+    Description : displaying if candidate is eligible for admission or not
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void checkAdmission(float fmarks, int iage){
 
     if(fmarks < 0 || fmarks > 100 || iage < 0){

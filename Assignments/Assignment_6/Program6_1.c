@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : calculateElectricityBill
+    Input : int
+    Output : void
+    Description : displaying the electricity bill based on the conditions
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
 void calculateElectricityBill(int iunits)
 {
     float fbill = 0.0f;
