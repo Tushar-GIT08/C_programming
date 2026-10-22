@@ -1,6 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkVotingEligibility
+    Input : int
+    Output : void
+    Description : displaying if candidate is eligible to vote or not
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
+
 void checkVotingEligibility(int iage){
     
     if (iage >= 18){

@@ -1,6 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///////////////////////
+/*
+
+    Function Name : checkEvenOdd
+    Input : int
+    Output : void
+    Description : check if number is even or odd
+    Date : 22/10/2026
+    Author : Tushar Dhanawade
+
+*/
+///////////////////////
+
+
 void checkEvenOdd(int ivalue){
 
     if (ivalue % 2 == 0){
